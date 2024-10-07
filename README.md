@@ -33,7 +33,7 @@
     #para2{
         font-size:30px;
         text-align:center;
-        color:red;
+        color:#000000;
     }
     #para3{
         font-size:20px;
@@ -101,8 +101,8 @@
     }
    
  </style>
- meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"></head>
+
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"></head>
 
  <body>
  <h1 id="para1">LES REPÈRES PHILOSOPHIQUES</h1>
@@ -110,12 +110,27 @@
  
  <div class="w3-container">
   <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
-    <p>London is the most populous city in the United Kingdom,
-    with a metropolitan area of over 9 million inhabitants.</p>
+    <p id="para2"><u><i> ABSOLU / RELATIF   </i></u></p>
+    <p id="para3">Absolu: ce qui ne dépend que de soi-même pour exister, ce qui dans la pensée comme dans la réalité ne dépend d'aucune autre chose et porte en soi-même sa raison d'être. 
+    <br> Relatif: ce qui dépend d'un autre terme en l'absence duquel ce dont il s'agit serait inintelligible, impossible ou incorrect. 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Dieu est absolu (il est sa propre raison d'être).
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Un pouvoir peut être absolu s'il ne dépend de rien au sens où il est sans partage et sans contrepoids.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ La créature est relative au créateur (sans lui, elle n'existerait pas).<p>
   </div>
-</div>
+ </div>
  
 
+
+
+
+ <div class="w3-container">
+  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i>    </i></u></p>
+    <p id="para3">        <p>
+  </div>
+ </div>
+ 
 
 
 
