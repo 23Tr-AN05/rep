@@ -116,10 +116,10 @@
     <br><br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Dieu est absolu (il est sa propre raison d'être).
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Un pouvoir peut être absolu s'il ne dépend de rien au sens où il est sans partage et sans contrepoids.
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ La créature est relative au créateur (sans lui, elle n'existerait pas).<p>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ La créature est relative au créateur (sans lui, elle n'existerait pas).</p>
   </div>
  </div>
- 
+ <br>
 
 
 
@@ -127,7 +127,9 @@
  <div class="w3-container">
   <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
     <p id="para2"><u><i>    </i></u></p>
-    <p id="para3">        <p>
+    <p id="para3"><br> 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
   </div>
  </div>
  
