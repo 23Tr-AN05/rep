@@ -111,8 +111,8 @@
  <div class="w3-container">
   <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
     <p id="para2"><u><i> ABSOLU / RELATIF   </i></u></p>
-    <p id="para3">Absolu: ce qui ne dépend que de soi-même pour exister, ce qui dans la pensée comme dans la réalité ne dépend d'aucune autre chose et porte en soi-même sa raison d'être. 
-    <br> Relatif: ce qui dépend d'un autre terme en l'absence duquel ce dont il s'agit serait inintelligible, impossible ou incorrect. 
+    <p id="para3"><u>Absolu</u>: ce qui ne dépend que de soi-même pour exister, ce qui dans la pensée comme dans la réalité ne dépend d'aucune autre chose et porte en soi-même sa raison d'être. 
+    <br><u> Relatif</u>: ce qui dépend d'un autre terme en l'absence duquel ce dont il s'agit serait inintelligible, impossible ou incorrect. 
     <br><br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Dieu est absolu (il est sa propre raison d'être).
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Un pouvoir peut être absolu s'il ne dépend de rien au sens où il est sans partage et sans contrepoids.
@@ -122,9 +122,9 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-#FF0067">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-red">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
-    <p id="para3"><br> Abstrait: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> Concret: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
+    <p id="para3"><br> <u>Abstrait</u>: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> <u>Concret</u>: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Rouge est une abstraction car une couleur ne se présente jamais seule à ma vue. 
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ je vois une pomme rouge, une tomate rouge mais jamis du rouge seul.      </p>
@@ -134,7 +134,7 @@
  <div class="w3-container">
   <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-cyan">
     <p id="para2"><u><i> ANALYSE /SYNTHÈSE   </i></u></p>
-    <p id="para3"><br> ⟿Analyse: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b> Analyser, c'est expliquer</b><br> Synthèse: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
+    <p id="para3"><br> ⟿<u>Analyse</u>: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b>Analyser, c'est expliquer</b><br> <u>Synthèse</u>: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
     <br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Une analyse de sang, le biologiste le décompose en ses différents constituants: plasma, globules rouges, globules blancs, etc.  
     <br><br>⟿Expliquer un phénomène, c'est de cherches les causes. 
@@ -146,10 +146,6 @@
   </div>
  </div>
  <br><br>
-
-
-
-
 
 
 
