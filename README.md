@@ -120,6 +120,32 @@
   </div>
  </div>
  <br>
+<br>
+ <div class="w3-container">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
+    <p id="para3"><br> Abstrait: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> Concret: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Rouge est une abstraction car une couleur ne se présente jamais seule à ma vue. 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ je vois une pomme rouge, une tomate rouge mais jamis du rouge seul.      </p>
+  </div>
+ </div>
+ <br><br>
+ <div class="w3-container">
+  <div class="w3-panel w3-bleu w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i>    </i></u></p>
+    <p id="para3"><br> 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+  </div>
+ </div>
+
+
+
+
+
+
+
 
 
 
