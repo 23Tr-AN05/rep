@@ -132,14 +132,20 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-bleu w3-topbar w3-bottombar w3-border-amber">
-    <p id="para2"><u><i>    </i></u></p>
-    <p id="para3"><br> 
-    <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+  <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i> ANALYSE /SYNTHÈSE   </i></u></p>
+    <p id="para3"><br> Analyse: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b> Analyser, c'est expliquer</b><br> Synthèse: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
+    <br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Une analyse de sang, le biologiste le décompose en ses différents constituants: plasma, globules rouges, globules blancs, etc.  
+    <br><br>Expliquer un phénomène, c'est de cherches les causes. 
+    <br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ E. Durkheim explique le suicide en cherchant les faits sociaux qui conduisent à une conduite de suicide. 
+    <br><br>Comprendre suppose au contraire une saisie globale des phénomènes. 
+    <br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;  ⇒ Saisir le sens du suicide en tant qu'il est parcouru par une intention.   </p>
   </div>
  </div>
-
+ <br><br>
 
 
 
