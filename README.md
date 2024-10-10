@@ -122,7 +122,7 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-burgundy">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
     <p id="para3"><br> Abstrait: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> Concret: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
@@ -132,15 +132,15 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-cyan">
     <p id="para2"><u><i> ANALYSE /SYNTHÈSE   </i></u></p>
-    <p id="para3"><br> Analyse: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b> Analyser, c'est expliquer</b><br> Synthèse: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
+    <p id="para3"><br> ⟿Analyse: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b> Analyser, c'est expliquer</b><br> Synthèse: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
     <br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Une analyse de sang, le biologiste le décompose en ses différents constituants: plasma, globules rouges, globules blancs, etc.  
-    <br><br>Expliquer un phénomène, c'est de cherches les causes. 
+    <br><br>⟿Expliquer un phénomène, c'est de cherches les causes. 
     <br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ E. Durkheim explique le suicide en cherchant les faits sociaux qui conduisent à une conduite de suicide. 
-    <br><br>Comprendre suppose au contraire une saisie globale des phénomènes. 
+    <br><br>⟿Comprendre suppose au contraire une saisie globale des phénomènes. 
     <br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;  ⇒ Saisir le sens du suicide en tant qu'il est parcouru par une intention.   </p>
   </div>
@@ -153,18 +153,6 @@
 
 
 
-
-
-
- <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
-    <p id="para2"><u><i>    </i></u></p>
-    <p id="para3"><br> 
-    <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
-  </div>
- </div>
- 
 
 
 
