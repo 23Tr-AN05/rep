@@ -122,7 +122,7 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-burgundy">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-maroon">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
     <p id="para3"><br> Abstrait: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> Concret: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
@@ -146,8 +146,6 @@
   </div>
  </div>
  <br><br>
-
-
 
 
 
