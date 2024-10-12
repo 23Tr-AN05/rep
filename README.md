@@ -218,7 +218,15 @@
     <br>Savoir: c'est affirmer avec certitude de celui qui peut avancer des preuves. Savoir, c'est d'être capable de rendre raison de ce qu'on affirme.</p>
   </div>
  </div>
- 
+ <br><br>
+  <div class="w3-container">
+  <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
+    <p id="para2"><u><i>    </i></u></p>
+    <p id="para3"><br> 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+  </div>
+ </div>
  
 
 
