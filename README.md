@@ -146,7 +146,7 @@
 
  
  <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-pale-yellow w3-topbar w3-bottombar w3-border-amber">
     <p id="para2"><u><i> ABSOLU  /  RELATIF   </i></u></p>
     <p id="para3"><u>Absolu</u>: ce qui ne dépend que de soi-même pour exister, ce qui dans la pensée comme dans la réalité ne dépend d'aucune autre chose et porte en soi-même sa raison d'être. 
     <br><u> Relatif</u>: ce qui dépend d'un autre terme en l'absence duquel ce dont il s'agit serait inintelligible, impossible ou incorrect. 
@@ -159,7 +159,7 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-red">
+  <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
     <p id="para3"><br> <u>Abstrait</u>: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> <u>Concret</u>: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
@@ -169,7 +169,7 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-cyan">
+  <div class="w3-panel w3-pale-blue w3-topbar w3-bottombar w3-border-cyan">
     <p id="para2"><u><i> ANALYSE  /  SYNTHÈSE   </i></u></p>
     <p id="para3"><br> ⟿<u>Analyse</u>: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b>Analyser, c'est expliquer</b><br> <u>Synthèse</u>: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
     <br>Exemples:
@@ -184,7 +184,7 @@
  </div>
  <br><br>
   <div class="w3-container">
-  <div class="w3-panel w3-purple w3-topbar w3-bottombar w3-border-pink">
+  <div class="w3-panel w3-pale-purple w3-topbar w3-bottombar w3-border-pink">
     <p id="para2"><u><i>  CAUSE  /  FIN</i></u></p>
     <p id="para3"><br> Cause: la notion de cause est liée à celle d'effet. La cause est ce qui entraîne de façon nécessaire un effet. 
     <br> Fin: but. Chercher la fin, c'est se poser la question du «pourquoi». 
