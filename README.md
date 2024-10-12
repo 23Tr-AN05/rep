@@ -200,8 +200,8 @@
  <br><br>
  <div class="w3-container">
   <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-green">
+   <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
     <p id="para3"><br> 
-    <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
     <br> Contingent: ce qui pourrait ne pas être.
     <br> Nécessaire: ce qui ne peut pas ne pas être. 
     <br> Possible: ce qui peut être c'est-à-dire qui n'est ni nécessaire ni impossible. Le <u>réel</u> est un cas particulier du possible. 
