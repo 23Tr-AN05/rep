@@ -48,7 +48,6 @@
  }
  .tooltip .tooltiptext::after {
   content: "";
-  position: absolute;
   top: 100%;
   left: 50%;
   margin-left: -5px;
@@ -295,19 +294,6 @@
 
 
 
-
-
-
-
- <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
-    <p id="para2"><u><i>    </i></u></p>
-    <p id="para3"><br> 
-    <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
-  </div>
- </div>
- 
 
 
 
