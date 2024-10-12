@@ -256,25 +256,38 @@
  <br><br>
 
  <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
     <p id="para2"><u><i> FORMEL / MATÉRILE   </i></u></p>
     <p id="para3"><br> En logique on distingue la <u>verité formelle</u> de la <u> vérité matérielle</u>.
     <br><u> <font style="color:red">Verité</font> <b>formelle</b></u>: la logique formelle étudie les relations entre les propositions indépendandemment du contenu (ou de la matière) de ces propositions. Si un raisonnement est cohérent, sans contradiction, il sera vrai <b> formellement</b>.
      <br> Mais pour qu'il soit vrai <u><b>matériellement</b></u> il faudra en plus que son contenu corresponde, soit adéquat à une réalité.
-     <br> <br>Chez ARISTOTE, la matière est ce en quoi les choses sont faites (Ex: la statue est faite en marbre, matière de la statue) mais pour que les choses soient effectivement il faut que la matière reçoive une forme (ici la configuration extérieur de la statue).
+     <br> <br>⨝ Chez ARISTOTE, la matière est ce en quoi les choses sont faites (Ex: la statue est faite en marbre, matière de la statue) mais pour que les choses soient effectivement il faut que la matière reçoive une forme (ici la configuration extérieur de la statue).
     </p>
   </div>
  </div>
  <br><br>
  
  <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-pale-blue w3-topbar w3-bottombar w3-border-cyan">
     <p id="para2"><u><i> GENRE  /  ESPÈCE  / INDIVIDU   </i></u></p>
-    <p id="para3"><br> <u>Genre</u>:
-    <br><u>Espèce</u>:
-    <br><u>Individu</u>:
+    <p id="para3"><br> <u>Genre</u>: catégorie de réalités ou d'idées que leurs caractéristiques communes essentielles autorisent à regrouper sous la même dénomination générale. En biologie, ensemble d'individus de la même famille biologique que l'on peut subdiviser en autant d'espèces qu'il y a des sous-groupes distincts. Un <b>genre</b> est donc une catégorie générale, une classe.
+    <br><u>Espèce</u>: en biologie, ensemble des individus possèdent des caractères propres transmissibles héréditairement. 
+    <br><u>Individu</u>:Membres de l'espèce, tous différents, mais dont les différences restent accidentelles alors que ce qu'ils sont essentiellement en commun les font membres de la même espèce. 
     <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  On parle de<b> genre </b>animale, d'<b>espèce </b>humaine. Pierre Dupond, lui, est un<b> individu</b>.      </p>
+  </div>
+ </div>
+ <br><br>
+ 
+ <div class="w3-container">
+  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-green">
+    <p id="para2"><u><i>  IDÉAL  /  REÉL  </i></u></p>
+    <p id="para3"><br> <u>Idéal</u>: ce qui n'existe qu'à titre d'idée, que dans et par la pensée.
+    <br><u>Réel</u>: ce qui est par opposition à l'apparence.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;  Mais exister à titre d'idée est, d'un certaine façon, être. Il est d'autres façons d'être que<b> matériellement</b>.
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Un nombre est une <b>idéalité</b> puisque dans l'expérience, on ne rencontre pas les nopmbres.  
+    <br><br>⨝  Dans un sens Icourant, on ourra aussi dire que <b>réel</b> c'est ce qui est et l'<b>idéal</b> ce qui doit être, la perfection inaccessible.  </p>
   </div>
  </div>
 
