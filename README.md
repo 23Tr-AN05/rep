@@ -159,7 +159,7 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-red">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-darkred">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
     <p id="para3"><br> <u>Abstrait</u>: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> <u>Concret</u>: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
@@ -199,7 +199,7 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-darkgreen">
     <p id="para3"><br> 
     <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
     <br> Contingent: ce qui pourrait ne pas être.
@@ -210,6 +210,16 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Il est <b>possible</b> que j'aille au cinéma demain (ce n'est pas contradictoire) mais il est <b>contingent</b> que j'aille effectivement puisque je peux librement décider de ne pas y aller. Tel est le cas tout au moins si existe le <i id="m"><div class="tooltip">libre arbitre<span class="tooltiptext">l'aptitude de l'être humain à se déterminer librement et par lui seul, pour agir et penser. </span></div> </i> car s'il n'existe pas alors je peux penser que le fait d'aller au cinéma est une conséquence <b>nécessaire</b> de l'état actuel du monde et de ce que je suis.  </p>
   </div>
  </div>
+ <br><br>
+  <div class="w3-container">
+  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i>    </i></u></p>
+    <p id="para3"><br> 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+  </div>
+ </div>
+ 
  
 
 
