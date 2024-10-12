@@ -184,7 +184,7 @@
  </div>
  <br><br>
   <div class="w3-container">
-  <div class="w3-panel w3-pale-purple w3-topbar w3-bottombar w3-border-pink">
+  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-green">
     <p id="para2"><u><i>  CAUSE  /  FIN</i></u></p>
     <p id="para3"><br> Cause: la notion de cause est liée à celle d'effet. La cause est ce qui entraîne de façon nécessaire un effet. 
     <br> Fin: but. Chercher la fin, c'est se poser la question du «pourquoi». 
@@ -199,7 +199,7 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-green">
+  <div class="w3-panel w3-pale-yellow w3-topbar w3-bottombar w3-border-amber">
    <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
     <p id="para3"><br> 
     <br> Contingent: ce qui pourrait ne pas être.
@@ -212,7 +212,7 @@
  </div>
  <br><br>
   <div class="w3-container">
-  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+  <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
     <p id="para2"><u><i>CROIRE  / SAVOIR    </i></u></p>
     <p id="para3"><br> Croire: c'est être persuadé de la vérité d'une proposition sans preuve, sans démonstration. La foi (croyance en une proposition qui n'est ni évidente ni démontrable) est un cas particulier de croyance. On peut en effet croire en une proposition dont certes on ignore la démonstration mais qui, néanmoins, est démontrable. 
     <br>Savoir: c'est affirmer avec certitude de celui qui peut avancer des preuves. Savoir, c'est d'être capable de rendre raison de ce qu'on affirme.</p>
@@ -220,7 +220,7 @@
  </div>
  <br><br>
   <div class="w3-container">
-  <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
+  <div class="w3-panel w3-pale-blue w3-topbar w3-bottombar w3-border-cyan">
     <p id="para2"><u><i>    </i></u></p>
     <p id="para3"><br> 
     <br><br>Exemples:
