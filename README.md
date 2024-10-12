@@ -25,6 +25,43 @@
  }
  </style>
  <style>
+ .tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+ }
+ .tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+ }
+ .tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+ }
+ .tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+ }
+ </style>
+ <style>
     #para1{
         font-size:50px;
         text-align:center;
@@ -84,8 +121,8 @@
         background-color:#FFDCDA;
         color: black;
     }
-    #m2{
-         background-color:#8FFF6D;
+    #m{
+         background-color:red;
         color: black;
     }
     #m3{
@@ -110,7 +147,7 @@
  
  <div class="w3-container">
   <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
-    <p id="para2"><u><i> ABSOLU / RELATIF   </i></u></p>
+    <p id="para2"><u><i> ABSOLU  /  RELATIF   </i></u></p>
     <p id="para3"><u>Absolu</u>: ce qui ne dépend que de soi-même pour exister, ce qui dans la pensée comme dans la réalité ne dépend d'aucune autre chose et porte en soi-même sa raison d'être. 
     <br><u> Relatif</u>: ce qui dépend d'un autre terme en l'absence duquel ce dont il s'agit serait inintelligible, impossible ou incorrect. 
     <br><br>Exemples:
@@ -133,7 +170,7 @@
  <br><br>
  <div class="w3-container">
   <div class="w3-panel w3-blue w3-topbar w3-bottombar w3-border-cyan">
-    <p id="para2"><u><i> ANALYSE /SYNTHÈSE   </i></u></p>
+    <p id="para2"><u><i> ANALYSE  /  SYNTHÈSE   </i></u></p>
     <p id="para3"><br> ⟿<u>Analyse</u>: opération de l'esprit qui consiste à décomposer un phénomène ou un concept en ses parties en montrant comment elles s'enchaînent. <b>Analyser, c'est expliquer</b><br> <u>Synthèse</u>: organisation dans un nouvel ensemble d'élèments jusque là séparés ou associés différemment. <b>La synthèse permet de comprendre</b>
     <br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Une analyse de sang, le biologiste le décompose en ses différents constituants: plasma, globules rouges, globules blancs, etc.  
@@ -147,15 +184,33 @@
  </div>
  <br><br>
   <div class="w3-container">
-  <div class="w3-panel w3-violet w3-topbar w3-bottombar w3-border-pink">
-    <p id="para2"><u><i>    </i></u></p>
-    <p id="para3"><br> 
+  <div class="w3-panel w3-purple w3-topbar w3-bottombar w3-border-pink">
+    <p id="para2"><u><i>  CAUSE  /  FIN</i></u></p>
+    <p id="para3"><br> Cause: la notion de cause est liée à celle d'effet. La cause est ce qui entraîne de façon nécessaire un effet. 
+    <br> Fin: but. Chercher la fin, c'est se poser la question du «pourquoi». 
     <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  L'attraction terrestre est <b>cause</b> du fait que chaque fois qu'un corps est laché, il tombe vers le sol. L'attraction est la <b>cause</b> et la chute et l'<b>effet</b>.  
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  «Pourquoi punit-on ?» signifie «Quelle est la<b> fin</b>, quel est le <b>but</b> poursuivi lorsqu'on punit, quelle est la <b>raison</b> pour laquelle on punit ?». On pourra répondre que c'est pour faire un exemple ou pour établir le droit. On aura alors dégagé la fin du punition. 
+    <br><br>   ⨝ Néanmoins, la  théorie des quatre causes d'ARISTOTE rend la distinciton <i>cause / fin</i> plus complexe. Pour Aristote, en effet est cause tout ce qui est mis en jeu dans la production d'un effet. 
+    <br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒ La production d'une statut met en jeu quatre causes.
+    </p>
+  </div>
+ </div>
+ <br><br>
+ <div class="w3-container">
+  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+    <p id="para3"><br> 
+    <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
+    <br> Contingent: ce qui pourrait ne pas être.
+    <br> Nécessaire: ce qui ne peut pas ne pas être. 
+    <br> Possible: ce qui peut être c'est-à-dire qui n'est ni nécessaire ni impossible. Le <u>réel</u> est un cas particulier du possible. 
+    <br>L'<i>impossible</i> est ce qui ne peut pas être, soit parce qu'il est irréalisable, soit parce qu'il est contradictoire avec les lois de la nature.
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Il est <b>possible</b> que j'aille au cinéma demain (ce n'est pas contradictoire) mais il est <b>contingent</b> que j'aille effectivement puisque je peux librement décider de ne pas y aller. Tel est le cas tout au moins si existe le <i id="m"><div class="tooltip">libre arbitre<span class="tooltiptext">l'aptitude de l'être humain à se déterminer librement et par lui seul, pour agir et penser. </span></div> </i> car s'il n'existe pas alors je peux penser que le fait d'aller au cinéma est une conséquence <b>nécessaire</b> de l'état actuel du monde et de ce que je suis.  </p>
   </div>
  </div>
  
-
 
 
 
