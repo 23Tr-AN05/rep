@@ -159,7 +159,7 @@
  <br>
 <br>
  <div class="w3-container">
-  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-darkred">
+  <div class="w3-panel w3-red w3-topbar w3-bottombar w3-border-red">
     <p id="para2"><u><i> ABSTRAIT  /  CONCRET   </i></u></p>
     <p id="para3"><br> <u>Abstrait</u>: l'abstraction est une opération de l'esprit qui consiste à séparer ce que nos sens présentent comme non séparés. <br> <u>Concret</u>: l'objet concret est l'objet global, le tout. Une idée peut être concrète si elle consière une réalité dans sa globalité. 
     <br><br>Exemples:
@@ -199,7 +199,7 @@
  </div>
  <br><br>
  <div class="w3-container">
-  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-darkgreen">
+  <div class="w3-panel w3-lime w3-topbar w3-bottombar w3-border-green">
     <p id="para3"><br> 
     <p id="para2"><u><i> CONTINGENT  /   NÉCESSAIRE  / POSSIBLE    </i></u></p>
     <br> Contingent: ce qui pourrait ne pas être.
@@ -213,10 +213,9 @@
  <br><br>
   <div class="w3-container">
   <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
-    <p id="para2"><u><i>    </i></u></p>
-    <p id="para3"><br> 
-    <br><br>Exemples:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+    <p id="para2"><u><i>CROIRE  / SAVOIR    </i></u></p>
+    <p id="para3"><br> Croire: c'est être persuadé de la vérité d'une proposition sans preuve, sans démonstration. La foi (croyance en une proposition qui n'est ni évidente ni démontrable) est un cas particulier de croyance. On peut en effet croire en une proposition dont certes on ignore la démonstration mais qui, néanmoins, est démontrable. 
+    <br>Savoir: c'est affirmer avec certitude de celui qui peut avancer des preuves. Savoir, c'est d'être capable de rendre raison de ce qu'on affirme.</p>
   </div>
  </div>
  
