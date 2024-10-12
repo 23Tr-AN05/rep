@@ -32,7 +32,7 @@
  }
  .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 400px;
   background-color: #555;
   color: #fff;
   text-align: center;
