@@ -208,7 +208,20 @@
     <br><br>Exemples:
     <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒  Il est <b>possible</b> que j'aille au cinéma demain (ce n'est pas contradictoire) mais il est <b>contingent</b> que j'aille effectivement puisque je peux librement décider de ne pas y aller. Tel est le cas tout au moins si existe le <div class="tooltip"><p id="para3">libre arbitre</p><span class="tooltiptext">l'aptitude de l'être humain à se déterminer librement et par lui seul, pour agir et penser. </span></div> car s'il n'existe pas alors je peux penser que le fait d'aller au cinéma est une conséquence <b>nécessaire</b> de l'état actuel du monde et de ce que je suis.  </p>
   </div>
- </div>
+ </div><br><br>
+ <div class="w3-container">
+  <div class="w3-panel w3-pale-yellow w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i>CONTINGENT / NÉCESSAIRE / POSSIBLE</i></u></p>
+    <p id="para3"><br /> 
+      <u>Contingent</u> : ce qui pourrait ne pas être.
+      <br /><u>Nécessaire</u> : ce qui ne peut pas ne pas être. 
+      <br /><u>Possible</u> : ce qui peut être, c'est-à-dire ce qui n'est ni nécessaire ni impossible. Le <u>réel</u> est un cas particulier du possible.
+      <br />L'<i>impossible</i> est ce qui ne peut pas être, soit parce qu'il est irréalisable, soit parce qu'il est contradictoire avec les lois de la nature.
+      <br /><br />Exemples :
+      <br />&nbsp;&nbsp;&nbsp;&nbsp; ⇒ Il est <b>possible</b> que j'aille au cinéma demain (ce n'est pas contradictoire), mais il est <b>contingent</b> que j'y aille effectivement, puisque je peux librement décider de ne pas y aller. Tel est le cas, tout au moins, si existe le <div class="tooltip"><p id="para3">libre arbitre</p><span class="tooltiptext">l'aptitude de l'être humain à se déterminer librement et par lui-même, pour agir et penser.</span></div>. Car s'il n'existe pas, alors je peux penser que le fait d'aller au cinéma est une conséquence <b>nécessaire</b> de l'état actuel du monde et de ce que je suis.
+    </p>
+  </div>
+</div>
  <br><br>
   <div class="w3-container">
   <div class="w3-panel w3-pale-red w3-topbar w3-bottombar w3-border-red">
@@ -294,6 +307,19 @@
 
 
 
+
+
+
+
+ <div class="w3-container">
+  <div class="w3-panel w3-yellow w3-topbar w3-bottombar w3-border-amber">
+    <p id="para2"><u><i>    </i></u></p>
+    <p id="para3"><br> 
+    <br><br>Exemples:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; ⇒       </p>
+  </div>
+ </div>
+ 
 
 
 
